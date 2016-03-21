@@ -1,0 +1,12 @@
+Package: tgnn
+Type: Package
+Title: Third Generation Neural Networks
+Version: 0.01
+Date: 2016-03-18
+Author: Lucas Gallindo
+Maintainer: Lucas Gallindo <lgallindo@gmail.com>
+Description: Neural Network simulations using Third Generations models.
+License: MIT + file LICENSE
+LazyData: TRUE
+RoxygenNote: 5.0.1.9000
+Suggests: testthat
